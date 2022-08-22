@@ -27,8 +27,8 @@ app.use(function(req, res, next) {
 
 
 
-// const port = process.env.PORT || 5999
-const port = 5999
+const port = process.env.PORT || 5999
+// const port = 5999
 
 
 
