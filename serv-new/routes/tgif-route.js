@@ -9,7 +9,7 @@ const {
 } = require("../controllers/tgif-controller");
 
 router.route("/").get(getAllDatas_tgif)
-router.route('/submit').post(createData_tgif);
-router.route("/:id").get(getData_tgif);
+router.route('/submit').post(createData_tgif)
+router.route("/:id").get(getData_tgif)
 
 module.exports = router;
