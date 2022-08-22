@@ -1,0 +1,111 @@
+.formContainer-edm{
+    width: 100%;
+}
+
+.campaignTextfielddiv{
+  margin-top: 1.5%;
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid #505050; */
+  
+}  
+/* .campaignTextfielddiv label{
+  font-size: 0.9em;
+  font-weight: bold;
+} */
+.campTextField{
+  margin-right: 10px !important;
+  justify-content: space-between;
+}
+
+.campaignTextfielddiv .campTextField{
+  padding: 10px 5px 10px 21px !important;
+}
+
+
+.formContainer-edm .inputEdm  {
+  width: 100%;
+  padding: 12px 20px !important;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  textarea{
+      width: 100%;
+      height: 200px;
+      padding: 12px 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+
+  }
+  
+  input[type=submit] {
+    width: 15%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 0 auto;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  .choosefileContainer-edm{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    border: 1px solid grey;
+  }
+
+.fileContainer-edm{
+  position: relative;
+}
+  .selectLogo-edm{
+        display: inline-block;
+        background-color: #00ab97;
+        border-radius: 10px;
+        border: 4px double #ffffff;
+        color: #ffffff;
+        text-align: center;
+        font-size: 16px;
+        padding: 8px;
+        width: 150px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 5px;
+        position: relative;
+        left: 115px;
+  }
+
+  .selectLogo-edm:hover {
+    background-color: #0c665c;
+  }
+
+  .selectlogoInputfile{
+        /* position: absolute; */
+        /* z-index: -1; */
+        
+        font-size: 17px;
+        color: #000000;
+  }

@@ -1,0 +1,31 @@
+.Logo-Contaner{
+    display: flex;
+    padding: 0 10px;
+    /* border: 1px solid green; */
+}
+
+.Container-bta{
+    width: 50%;
+    padding: 10px;
+    /* border: 1px solid green; */
+}
+.BTA-img{
+    margin: 0 auto;
+}
+
+.Comp-logo{
+    float: right;
+    margin: 0 0 0 90px;
+    /* width: 50%; */
+    /* border: 1px solid green; */
+}
+
+.Text-p{
+    font-size: 13px;
+    text-align: center;
+}
+
+.Comp-logo-img{
+    margin: 0 auto;
+}
+

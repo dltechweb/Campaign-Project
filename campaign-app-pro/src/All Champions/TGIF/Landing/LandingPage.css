@@ -1,0 +1,30 @@
+.landing-container{
+    /* border: 1px solid firebrick; */
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    display: flex;
+}
+
+.left-container{
+    /* border: 1px solid salmon; */
+    width: 50%;
+    padding: 10px;
+}
+
+.heading-text{
+    color: #2679b2;
+    font: bold 18px/25px 'Noto Sans', sans-serif;
+    text-align: left;
+}
+.text-p{
+    
+    font-size: 14px;
+    color: #505050;
+}
+
+.right-container{
+    box-shadow: 0px 0px 1px 1px #2679b3;
+    width: 50%;
+    border-radius: 20px;
+    padding: 10px;
+}

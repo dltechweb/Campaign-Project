@@ -1,0 +1,46 @@
+.span-font-13{
+    font-size: 13px;
+}
+
+.main-ty-container{
+    margin: 0 10px 0 10px;
+    padding: 0 10px 0 10px;
+    /* border: 1px solid salmon; */
+    display: flex;
+    width: 100%;
+}
+
+.img-thankyou{
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    float: left;
+    /* border: 1px solid sandybrown; */
+}
+
+.img-thankyou img{
+    border: 1px solid rgb(63, 62, 62);
+}
+
+.thankyou-content-container{
+    padding: 0 10px 10px 10px;
+    width: 70%;
+    /* border: 1px solid sienna; */
+}
+
+.thankyou-head-text{
+    color: #2679b2;
+    margin: 0 0 10px 0;
+}
+
+.thankyou-p-text{
+   margin: 0 0 10px 0;
+}
+
+
+.auto-download-t-container{
+    font-size: 12px;
+    margin-top: 50px;
+
+    /* border: 1px solid gold; */
+}
